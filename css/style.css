@@ -60,11 +60,11 @@ a:focus {
   display: inline;
   padding: 5px;
   font-size: 2rem;
-  text-align: center;
+  text-align: left;
   margin-right: 15px;
 }
 .top-navigation .nav-menu {
-  text-align: center;
+  text-align: left;
 }
 
 .active {
